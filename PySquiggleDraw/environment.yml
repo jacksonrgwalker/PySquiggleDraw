@@ -1,0 +1,15 @@
+name: gen-art-env
+channels:
+  - defaults
+dependencies:
+  - jupyterlab
+  - networkx
+  - ipywidgets
+  - numpy
+  - matplotlib
+  - shapely
+  - pycairo
+  - scipy
+  - colour
+  - scikit-image
+  - scour

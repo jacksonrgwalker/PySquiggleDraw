@@ -1,9 +1,9 @@
 name: gen-art-env
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - jupyterlab
-  - networkx
   - ipywidgets
   - numpy
   - matplotlib
